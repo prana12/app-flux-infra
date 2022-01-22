@@ -9,6 +9,6 @@ entries:
     name: ms-template
     type: application
     urls:
-    - https://github.io/prana12/app-flux-infra/helm-chart/ms-template-0.1.0.tgz
+    - https://github.io/prana12/app-flux-infra/helm-chart/
     version: 0.1.0
 generated: "2022-01-22T17:08:41.324847Z"
