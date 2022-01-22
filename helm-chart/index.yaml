@@ -3,12 +3,12 @@ entries:
   ms-template:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-21T23:34:50.5411158Z"
+    created: "2022-01-22T17:08:41.3274712Z"
     description: A Helm chart for Kubernetes
-    digest: 90b0376d7c83d1f23d378d053eb4222e994d3a00e16bffb180964c6ef1bb91b0
+    digest: 1f877f359d4410a425e3350d7466cc33d312256d08e6d521fab20926b5b5a649
     name: ms-template
     type: application
     urls:
     - https://github.io/prana12/app-flux-infra/helm-chart/ms-template-0.1.0.tgz
     version: 0.1.0
-generated: "2022-01-21T23:34:50.5405695Z"
+generated: "2022-01-22T17:08:41.324847Z"
